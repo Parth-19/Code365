@@ -1,4 +1,4 @@
-/* Code365 By Techcider (STME, NMIMS) ; Parth Maheshwari (1st Year MBA Tech CE) */
+/* Code365 By Techcider (STME, NMIMS) ;code written by Parth Maheshwari (1st Year MBA Tech CE) */
 
 #include<stdio.h>
 #include<iostream>
