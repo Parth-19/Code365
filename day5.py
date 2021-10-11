@@ -15,5 +15,5 @@ def binomialCoeff(n, k) :
 		res = res * (n - i)
 		res = res // (i + 1)
 	return res
-n = 7
+n = 4
 printPascal(n)
